@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GradeDemoApplication {
 
 
-    //test。  xxxddd
+    //test。  xxxdddddd
     public static void main(String[] args) {
         SpringApplication.run(GradeDemoApplication.class, args);
     }
