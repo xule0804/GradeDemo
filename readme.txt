@@ -1,4 +1,4 @@
 test   Q
 
 
-git
+git is a distributed version control system.
